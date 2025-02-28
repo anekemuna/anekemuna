@@ -27,9 +27,9 @@ I am a Computer Science graduate from Arizona State University with a background
 - 🧑‍💻 I'm working on a language learning application.
 
 ## Skills
-- Programming languages: Python, JavaScript, HTML/CSS, etc.
-- Frameworks: React, Node.js, etc.
-- Tools: Git, GitHub, VS Code etc.
+- Programming languages: Python, JavaScript, HTML/CSS
+- Frameworks: React, Node.js, Express.js
+- Tools: Git, GitHub, VS Code
 
 ## Projects
 - [Project Name 1](link-to-project): Brief description of the project.
