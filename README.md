@@ -39,7 +39,7 @@ I am a Computer Science graduate from Arizona State University with a background
 -->
 
 ## Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/anekemuna/)
+- [LinkedIn](https://www.linkedin.com/in/aneke/)
 <!-- [Personal Website](https://yourwebsite.com) -->
 
 
