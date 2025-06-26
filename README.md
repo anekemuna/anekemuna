@@ -45,7 +45,11 @@ Right now, I’m all about exploring new tech, working on fun projects, and shar
 
 ## 🧩 Portfolio
 
-[Coming soon... 🚧]
+
+<a href="https://munachimso-aneke.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+[Under Construction... 🚧]
 
 ---
 
