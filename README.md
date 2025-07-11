@@ -129,11 +129,12 @@ Right now, I’m all about exploring new tech, working on fun projects, and shar
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anekemuna&theme=transparent&hide_border=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--
 ---
 
 ## 📊 Profile Views
 
-[![Visits Badge](https://badges.pufler.dev/visits/anekemuna/anekemuna)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/anekemuna/anekemuna)](https://badges.pufler.dev) -->
 
 
 ---
