@@ -33,7 +33,6 @@ Right now, I’m all about exploring new tech, working on fun projects, and shar
 
 ## 👩🏾‍💻 Currently Working On
 
-- Designing and building my personal portfolio website (still exploring tech stack options).
 - Developing a slang flashcard learning web app using the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 
